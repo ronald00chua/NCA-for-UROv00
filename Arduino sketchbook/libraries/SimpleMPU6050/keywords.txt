@@ -1,0 +1,10 @@
+SimpleMPU6050	KEYWORD1
+initializeInstance	KEYWORD2
+initiateRead	KEYWORD2
+getAccelX	KEYWORD2
+getAccelY	KEYWORD2
+getAccelZ	KEYWORD2
+getGyroX	KEYWORD2
+getGyroY	KEYWORD2
+getGyroZ	KEYWORD2
+getTemperature	KEYWORD2
